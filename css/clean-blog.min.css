@@ -8,4 +8,9 @@
  color:transparent;
  -webkit-background-clip: text;
  background-clip: text;
+ } .link2{
+   color:rgba(86,169,156,1);
+ }table,th, td {
+  border: 0px;
+  text-align:center;
  }
